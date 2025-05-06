@@ -56,4 +56,4 @@ A collaborative **Jupyter Notebook** project for my university course on search 
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+> *"Be yourself; everyone else is already taken."* – **Oscar Wilde**  
